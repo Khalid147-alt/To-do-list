@@ -1,1 +1,11 @@
 node_modules;
+var fs = require ('fs');
+var path = require('path');
+//var express require express
+const app = require('express');
+const bodyparser = require(bodyparser);
+const ejs = require ('ejs');
+
+
+
+
